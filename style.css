@@ -1,0 +1,14 @@
+
+
+.name_of_objects {
+    color: white;
+}
+body{
+   background: linear-gradient(to right, #c5f9d7,#f7d486,#f27a7d);
+}
+
+#cam,#result {
+    width: 400px;
+    height : 350px;
+    border:10px solid black;
+}
